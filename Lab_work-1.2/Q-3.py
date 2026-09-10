@@ -1,0 +1,10 @@
+a = int(input("Enter First Number : "))
+b = int(input("Enter Second Number : "))
+
+print("\nAddition is : ",a+b)
+print("Subtraction is : ",a-b)
+print("Multiplication is : ",a*b)
+print("Division is : ",a/b)
+print("Floor Division is : ",a//b)
+print("Modulus is : ",a%b)
+print("Exponentation is : ",a**b)
