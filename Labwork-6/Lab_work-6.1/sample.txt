@@ -1,0 +1,5 @@
+Learning file handling in Python is fun!
+
+hello world!
+This is sample.txt
+a file which is created using the file handling.
